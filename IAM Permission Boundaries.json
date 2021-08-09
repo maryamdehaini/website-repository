@@ -1,0 +1,11 @@
+{ 
+		"category": "security", 
+		"name": "IAM Permission Boundaries",
+		"tags": "identity, IAM, policy, JSON",
+		"time": "1",
+		"externallyaccessible": "Yes",
+		"level": 200,
+		"type": "Builder Session",
+		"description": "Permission boundaries is probably one of the most important new IAM features that has launched in a while. This feature addresses a longstanding customer issue, namely, how do I delegate administration to my users. If you have system administrators that need to be able to create IAM roles and users, developers that need to be able to create roles for Lambda functions, or any similar scenario, then you need permission boundaries.",
+		"location": ""
+}

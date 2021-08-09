@@ -1,0 +1,11 @@
+{ 
+		"category": "security",
+		"name": "Protect with WAF (Classic)",
+		"tags": "waf, firewall, CloudFront, DDoS, threat, automation",
+		"time": "1-2",
+		"externallyaccessible": "Yes",
+		"level": 300,
+		"type": "Workshop",
+		"description": "In the labs you will get familar with AWS WAF and how you can use it protect a web application. For lab1 you will perform some common web application attacks and then you will implement an AWS WAF to protect your application from these exposures without the need to update any web application code. For lab2 you will use additional tools to create automations which will dynamically add AWS WAF protections from more advanced attacks.",
+		"location": "https://github.com/gtaws/ProtectWithWAF"
+}

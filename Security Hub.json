@@ -1,0 +1,11 @@
+{ 
+		"category": "security",
+		"name": "Security Hub",
+		"tags": "detect, respond, recover, IAM, GuardDuty, Macie, Security Hub, Inspector",
+		"time": "1-2",
+		"externallyaccessible": "Yes",
+		"level": 200,
+		"type": "Workshop",
+		"description": "This workshop is broken into two sections. The first section will guide you through a demonstration of features and functions of Security Hub. The second sectionis a lab thatwill show you how to buildInsights, CustomActions,and Integrations.",
+		"location": "https://ee-assets-prod-us-east-1.s3.amazonaws.com/modules/a6522c879e784c2086013230d57cfe73/v3/Security-Hub-Workshop-Guide-2019-security-summit.pdf"
+}

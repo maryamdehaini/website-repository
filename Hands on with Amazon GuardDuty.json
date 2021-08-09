@@ -1,0 +1,11 @@
+{ 
+		"category": "security",
+		"name": "Hands on with Amazon GuardDuty",
+		"tags": "GuardDuty, SIEM, attack, CloudWatch Event Rules, Lambda, protect, detect, respond, preventive, detective, responsive",
+		"time": "1-2",
+		"externallyaccessible": "Yes",
+		"level": 300,
+		"type": "Builder Session",
+		"description": "This repository walks you through a scenario covering threat detection and remediation using Amazon GuardDuty; a managed threat detection service. The scenario simulates an attack that spans a few threat vectors, representing just a small sample of the threats that GuardDuty is able to detect. In addition, you will look at how to view and analyze GuardDuty findings, how to send alerts based on the findings, and, finally, how to remediate findings.",
+		"location": "https://hands-on-guardduty.awssecworkshops.com/"
+}

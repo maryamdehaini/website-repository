@@ -1,0 +1,12 @@
+{
+		"category": "security",
+		"name": "WAF Classic Workshop (not v2)",
+		"tags": "waf, firewall, CloudFront, DDoS, threat, automation",
+		"time": "1-2",
+		"externallyaccessible": "yes",
+		"level": 200,
+		"type": "Workshop",
+		"description": "This workshop introduces AWS WAF and the AWS WAF Security Automations solution.The AWS WAF enables customers to create rules to block common attack patterns, administered via APIs. The Security Automation Solution extends WAF by deploying a set of preconfigured rules to protect applications. These rules can be customised for your application.",
+		"location": "https://github.com/aws-samples/aws-waf-classic-workshop"
+		
+}

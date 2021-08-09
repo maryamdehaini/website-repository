@@ -2,7 +2,7 @@
 		"category": "security",
 		"name": "Access Delegation",
 		"tags": "identity, protect, preventive",
-		"time": "2",
+		"time": "2", 
 		"externallyaccessible": "Yes",
 		"level": 200, 
 		"type": "Workshop",

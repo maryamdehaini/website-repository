@@ -4,7 +4,7 @@
 		"tags": "identity, protect, preventive",
 		"time": "2",
 		"externallyaccessible": "Yes",
-		"level": 200,
+		"level": 200, 
 		"type": "Workshop",
 		"description": "In this workshop you will learn how to use Amazon IAM to delegate access to these services to AWS Security Administrators and AWS Security Operators. AWS Security Administrators require full access to AWS security services while AWS Security Operators only require read only access to the services. You will use AWS IAM roles to do this and thereby promote the Principle of Least Privilege - giving users the minimum level of privilege they need to do their tasks.",
 		"location": "https://identity-round-robin.awssecworkshops.com/delegation/"

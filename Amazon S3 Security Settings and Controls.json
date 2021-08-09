@@ -1,0 +1,12 @@
+{ 
+		"category": "security",
+		"name": "Amazon S3 Security Settings and Controls",
+		"tags": "S3, Config, protect, preventive, detect, policy, respond",
+		"time": "1",
+		"externallyaccessible": "Yes",
+		"level": 200,
+		"type": "Workshop",
+		"description": "In this workshop you will use IAM, S3 Bucket Policies, S3 Block Public Access and AWS Config to demonstrate multiple strategies for securing a S3 Bucket.",
+		"location": "https://github.com/aws-samples/amazon-s3-security-settings-and-controls"
+	
+}

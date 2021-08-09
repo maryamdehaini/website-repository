@@ -3,7 +3,7 @@
 		"name": "IAM Permissions boundary workshop Advanced",
 		"tags": "identity, protect, preventive, IAM, roles, users, policy, Lambda",
 		"time": "2",
-		"externallyaccessible": "Yes",
+		"externallyaccessible": "Yes", 
 		"level": 400,
 		"type": "Workshop",
 		"description": "In this workshop, you learn how to secure access permissions for multiple teams operating in a single AWS account. We provide an example three-tier web application running in production, and you practice delegating permissions to web administrators so they can modify only their own resources without impacting the permissions needed to do their job.All attendees need a laptop, an active AWS Account, an AWS IAM Administrator, and a familiarity with core AWS services.",

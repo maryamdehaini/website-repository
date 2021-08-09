@@ -1,0 +1,11 @@
+{ 
+		"category": "security",
+		"name": "Serverless Identity",
+		"tags": "identity, protect, preventive, Cognito, serverless, IAM, S3, CloudFront, Cognito",
+		"time": "1-2",
+		"externallyaccessible": "Yes",
+		"level": 300,
+		"type": "Workshop",
+		"description": "In this workshop you will be focused on improving the identity controls of the a serverless application. You will get exposed to different identity concepts through the use of a variety of services such as AWS IAM, Amazon S3, Amazon CloudFront, and Amazon Cognito. Upon completion you should have a better idea of how to use native AWS identity controls to improve the security posture of a serverless application.",
+		"location": "https://identity-round-robin.awssecworkshops.com/serverless/"
+}

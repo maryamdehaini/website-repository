@@ -1,2 +1,25 @@
-security
-data
+Compute
+Containers
+Storage
+Database
+Migration & Transfer
+Networking & Content Delivery
+Developer Tools
+Customer Enablement
+Robotics
+Blockchain
+Satellite
+Quantum Technologies
+Management & Governance
+Media Services
+Machine Learning
+Analytics
+Security, Identity, & Compliance
+AWS Cost Management
+Front-end Web & Mobile
+AR & VR
+Application Integration
+Business Applications
+End User Computing
+Internet of Things
+Game Development

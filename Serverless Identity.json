@@ -1,5 +1,5 @@
 { 
-		"category": "security",
+		"category": "Security, Identity, & Compliance",
 		"name": "Serverless Identity",
 		"tags": "identity, protect, preventive, Cognito, serverless, IAM, S3, CloudFront, Cognito",
 		"time": "1-2",

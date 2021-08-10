@@ -1,5 +1,5 @@
 { 
-		"category": "security",
+		"category": "Security, Identity, & Compliance",
 		"name": "Hands on with Amazon GuardDuty",
 		"tags": "GuardDuty, SIEM, attack, CloudWatch Event Rules, Lambda, protect, detect, respond, preventive, detective, responsive",
 		"time": "1-2", 

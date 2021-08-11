@@ -1,0 +1,15 @@
+
+
+{
+
+"category": "Compute",
+"name": "Compute workshop",
+"tags": "Iot, s3",
+"time": "1 hour",
+"externallyaccessible": "Yes",
+"level": "100",
+"type": "AWS Jam",
+"description": "This is a test Json file",
+"location": "www.google.com"
+
+}

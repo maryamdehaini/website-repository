@@ -10,6 +10,6 @@
 "level": "100",
 "type": "AWS Jam",
 "description": "This is a test Json file",
-"location": "www.google.com"
+"location": "https://www.google.com"
 
 }

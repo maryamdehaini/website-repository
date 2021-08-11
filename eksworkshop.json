@@ -1,0 +1,11 @@
+{
+		"category": "Containers",
+		"name": "Amazon EKS Workshop",
+		"tags": "containers, eks, ecs, ecr, fargate",
+		"time": "2",
+		"externallyaccessible": "Yes",
+		"level": 200,
+		"type": "Workshop",
+		"description": "This workshop includes an introduction to Kubernetes and EKS to advance topics such as building a service mesh.",
+		"location": "https://www.eksworkshop.com/"
+}

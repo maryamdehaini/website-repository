@@ -15,7 +15,7 @@ Welcome to the AWS Workshop Repository. If you wish to add a reource, please use
     }
     
 ## JSON Creator
-To create JSON object to upload your website repository, click [here](https://aws-workshop-project.s3.us-east-2.amazonaws.com/jsonCreator.html)
+To create JSON object to upload your workshop to the repository, click [here](https://aws-workshop-project.s3.us-east-2.amazonaws.com/jsonCreator.html)
     
 | Object   | Description| 
 |----------|--------------------------------------------------------------------|

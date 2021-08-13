@@ -1,6 +1,6 @@
-## AWS Workshop repository
+## AWS Workshop Wiki
 
-Welcome to the AWS Workshop Repository. If you wish to add a reource, please use the copy the following json object into a file, fill it out, and push it to this repository: 
+Welcome to the AWS Workshop Wiki repository. If you wish to add a reource, please use the copy the following json object into a file, fill it out, and push it to this repository: 
 
     { 
         "category": "",

@@ -3,7 +3,7 @@
 		"name": "Security Hub",
 		"tags": "detect, respond, recover, IAM, GuardDuty, Macie, Security Hub, Inspector",
 		"time": "1-2",
-		"externallyaccessible": "Yes",
+		"externallyaccessible": "Yes", 
 		"level": 200,
 		"type": "Workshop",
 		"description": "This workshop is broken into two sections. The first section will guide you through a demonstration of features and functions of Security Hub. The second sectionis a lab thatwill show you how to buildInsights, CustomActions,and Integrations.",

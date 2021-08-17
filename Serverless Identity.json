@@ -2,7 +2,7 @@
 		"category": "Security, Identity, & Compliance",
 		"name": "Serverless Identity",
 		"tags": "identity, protect, preventive, Cognito, serverless, IAM, S3, CloudFront, Cognito",
-		"time": "1-2",
+		"time": "1-2 hours",
 		"externallyaccessible": "Yes",
 		"level": 300,
 		"type": "Workshop",

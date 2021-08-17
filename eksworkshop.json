@@ -2,7 +2,7 @@
 		"category": "Containers",
 		"name": "Amazon EKS Workshop",
 		"tags": "containers, eks, ecs, ecr, fargate",
-		"time": "2",
+		"time": "2 hours",
 		"externallyaccessible": "Yes",
 		"level": 200,
 		"type": "Workshop",

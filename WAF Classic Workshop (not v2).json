@@ -2,7 +2,7 @@
 		"category": "Security, Identity, & Compliance",
 		"name": "WAF Classic Workshop (not v2)",
 		"tags": "waf, firewall, CloudFront, DDoS, threat, automation",
-		"time": "1-2",
+		"time": "1-2 hours",
 		"externallyaccessible": "yes",
 		"level": 200,
 		"type": "Workshop",

@@ -2,7 +2,7 @@
 		"category": "Security, Identity, & Compliance",
 		"name": "Protect with WAF (Classic)",
 		"tags": "waf, firewall, CloudFront, DDoS, threat, automation",
-		"time": "1-2",
+		"time": "1-2 hours",
 		"externallyaccessible": "Yes",
 		"level": 300,
 		"type": "Workshop",

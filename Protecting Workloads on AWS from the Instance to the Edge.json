@@ -2,7 +2,7 @@
 		"category": "Security, Identity, & Compliance",
 		"name": "Protecting Workloads on AWS from the Instance to the Edge",
 		"tags": "protect, preventive, firewall, WAF, ALB, load balancer, web, Linux, CloudWatch, Inspector, Systems Manager, EC2", 
-		"time": "2",
+		"time": "2 hours",
 		"externallyaccessible": "yes",
 		"level": 300,
 		"type": "Workshop",

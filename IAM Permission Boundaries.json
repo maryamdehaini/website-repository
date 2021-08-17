@@ -2,7 +2,7 @@
 		"category": "Security, Identity, & Compliance", 
 		"name": "IAM Permission Boundaries",
 		"tags": "identity, IAM, policy, JSON",
-		"time": "1",
+		"time": "1 hour",
 		"externallyaccessible": "Yes",
 		"level": 200,
 		"type": "Builder Session",

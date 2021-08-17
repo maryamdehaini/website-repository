@@ -2,7 +2,7 @@
 		"category": "Security, Identity, & Compliance",
 		"name": "Security Hub",
 		"tags": "detect, respond, recover, IAM, GuardDuty, Macie, Security Hub, Inspector",
-		"time": "1-2",
+		"time": "1-2 hours",
 		"externallyaccessible": "Yes", 
 		"level": 200,
 		"type": "Workshop",

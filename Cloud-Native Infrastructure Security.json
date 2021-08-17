@@ -2,7 +2,7 @@
 		"category": "Security, Identity, & Compliance",
 		"name": "Cloud-Native Infrastructure Security",
 		"tags": "prevent, detect, CloudWatch, CloudTrail, GuardDuty, Config, Security Groups, Network ACLs",
-		"time": "1",
+		"time": "1 hour",
 		"externallyaccessible": "Yes",
 		"level": 200,
 		"type": "Builder Session", 

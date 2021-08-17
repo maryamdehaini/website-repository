@@ -2,7 +2,7 @@
 		"category": "Security, Identity, & Compliance",  
 		"name": "IAM Permissions boundary workshop Advanced",
 		"tags": "identity, protect, preventive, IAM, roles, users, policy, Lambda",
-		"time": "2",
+		"time": "2 hours",
 		"externallyaccessible": "Yes", 
 		"level": 400,
 		"type": "Workshop",
